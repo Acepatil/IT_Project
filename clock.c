@@ -1,11 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-<<<<<<< HEAD
 #include "delay.h"
 // World clock function calling.....
-=======
-// World clock library calling.....
->>>>>>> c2cdea50005bc3b9ead001d443cf87bfd02222b5
 // selecting time zone and then starting the clock..
 int main()
 {
